@@ -758,3 +758,25 @@ a {
   font-size: 16px;
   margin: 4px 8px;
 }
+
+      .sidebar {
+        width: 260px;
+      }
+      .main-container {
+        margin-left: 260px;
+      }
+    
+      .post-item .right .feature-container {
+        border-radius: 5px;
+      }
+    
+      ---
+title: QuickSort
+date: 2019-04-13 17:49:09
+tags: [Java, Sort]
+categories:
+- [Algorithm, Sort]
+---
+
+QuickSort Demo
+    
